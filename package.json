@@ -1,7 +1,7 @@
 {
   "name": "lzh-signin",
   "version": "1.0.0",
-  "description": "",
+  "description": "lzh-signin",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,16 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/elvis-packages/lzh-signin.git"
+    "url": "git+https://github.com/linzehao1994/lzh-signin.git"
   },
-  "author": "Elvis Lin",
-  "license": "MIT",
+  "keywords": [
+    "lzh-signin"
+  ],
+  "author": "linzehao1994",
+  "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/elvis-packages/lzh-signin/issues"
+    "url": "https://github.com/linzehao1994/lzh-signin/issues"
   },
-  "homepage": "https://gitlab.com/elvis-packages/lzh-signin#readme",
+  "homepage": "https://github.com/linzehao1994/lzh-signin#readme",
   "dependencies": {
-    "request": "2.88.0",
-    "request-promise": "4.2.4"
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }
