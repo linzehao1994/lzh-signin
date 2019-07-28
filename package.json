@@ -1,0 +1,26 @@
+{
+  "name": "lzh-signin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/elvis-packages/lzh-signin.git"
+  },
+  "author": "Elvis Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/elvis-packages/lzh-signin/issues"
+  },
+  "homepage": "https://gitlab.com/elvis-packages/lzh-signin#readme",
+  "dependencies": {
+    "request": "2.88.0",
+    "request-promise": "4.2.4"
+  }
+}
